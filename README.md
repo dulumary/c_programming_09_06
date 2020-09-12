@@ -4,11 +4,13 @@
 ### [강의 자료](01_Programming/README.md) 
 ### [예제 보기](01_Programming/ex)
 ### [연습 문제](01_Programming/test/README.md)
+### [과제](01_Programming/homework/README.md) 
 
 ##  2. 변수   
 ### [강의 자료](02_Variable/README.md) 
 ### [예제 보기](02_Variable/ex)
 ### [연습 문제](02_Variable/test/README.md)
+### [과제](02_Variable/homework/README.md) 
 
 ##  3. 함수   
 ### [강의 자료](03_Function/README.md) 
