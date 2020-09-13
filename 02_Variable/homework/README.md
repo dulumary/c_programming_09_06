@@ -1,6 +1,6 @@
 ## 과제
 ### github site 문제
-* [3 ~ 6](https://github.com/dulumary/basic/blob/master/c_programming/02_Variable/test/test02/README.md)
+* [1 ~ 6](https://github.com/dulumary/basic/blob/master/c_programming/02_Variable/test/test02/README.md)
 * [1](https://github.com/dulumary/c_programming_09_06/blob/master/02_Variable/test/test05/README.md)
 
 ### codeup
