@@ -5,7 +5,6 @@
 
 ### codeup
 * [1004 ~ 1007](https://codeup.kr/problemsetsol.php?psid=9)
-* [1010 ~ 1020](https://codeup.kr/problemsetsol.php?psid=10) (5개 이상)
 
 
 
