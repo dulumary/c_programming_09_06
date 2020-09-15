@@ -231,10 +231,9 @@ if(weight < 70) {
 ```
 만약에 학점이 
 A이면 소고기,
-B이면 삼겹살
-C이면 라면
-D이면 추파춥스
-F면 소주
+B이면 삼겹살,
+C이면 치킨,
+그 이하면 라면
 ```
 * 위 내용을 if-else if 로 표현하면 아래와 같다. 
 
@@ -244,9 +243,9 @@ if(grade == ‘A’) {
 } else if (grade == ‘B’) {
 	eatPork();
 } else if (grade == ‘C’) {
-	eatNudle();
+	eatChicken();
 } else {
-	eatSoju();
+	eatNoodle();
 }
 ```
 
@@ -261,10 +260,10 @@ case ‘B’:
 	eatPork();
 	break;
 case ‘C’:
-	eatNudle();
+	eatChicken();
 	break;
 default:
-	eatSoju();
+	eatNoodle();
 }
 ```
 
@@ -288,7 +287,7 @@ case ‘B’:
 	eatPork();
 	break;
 case ‘C’:
-	eatNudle();
+	eatNoodle();
 	break;
 }
 ```
@@ -296,7 +295,7 @@ case ‘C’:
 [연습문제](test/test04/README.md)
 
 
-[종합문제](test/test01/README.md)
+[종합문제](test/test05/README.md)
 
-[고급문제](test/test01/README.md)
+[고급문제](test/test06/README.md)
 
