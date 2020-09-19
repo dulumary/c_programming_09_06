@@ -60,7 +60,7 @@ while(weight > 70) {
 ```
 int i = 0;
 while(i < 5) {
-	printf("Hello, World!", i);
+	printf("Hello, World!!\n");
 	i++; // i = i + 1;
 }
 ```
@@ -76,7 +76,7 @@ while(i < 5) {
 ```
 int i = 5;
 while(i >= 0) {
-	printf("Hello World %d\n", i);
+	printf("Hello, World!!\n");
 	i--;
  }
 ```
@@ -99,7 +99,7 @@ while(1) {
 ```
 int i = 0;
 while(i < 5) {
-        printf("Hello World %d\n", i);
+	printf("Hello World\n");
 }
 ```
 * i를 증가 시켜 주지 않는 것과 같은 실수를 통해서 원치 않는 무한 루프를 만들수 있다. 
@@ -109,9 +109,9 @@ while(i < 5) {
 ```
 int i = 0;
 do {
-	printf("Hello World %d\n", i);
+	printf("Hello, World!!");
 	i++;
-} while(i < 5)
+} while(i < 5);
 ```
 * do 뒤에 중괄호가 오고 그안에 반복할 문장이 온다. 
 * while 조건은 그 뒤에 붙는다. 
@@ -131,7 +131,7 @@ do {
 ```
 int i = 0;
 while(i < 5) {
-	printf("Hello, World!", i);
+	printf("Hello, World!!");
 	i++; // i = i + 1;
 }
             ▼
@@ -171,22 +171,15 @@ for( ; weight > 70; weight -= 2) {
 * 반복문에서 조건과 관계 없이 반복문 안에서 탈출 할떄 **break** 문을 사용한다. 
 
 ```
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
- 
-    int i = 0;
-    while(1) {
+int i = 0;
+while(1) {
         
-        printf("Hello, World\n");
-        if(i == 10) {
-            break;
-        }
-        i++;
-    }
-    return 0;
+	printf("Hello, World!!\n");
+	if(i == 10) {
+		break;
+	}
+	i++;
 }
-
 ```
 * 무한 루프 상황에서 if를 통해 특정 조건일때 반복문을 빠져 나오는 상황
 *  i가 10이 되었을때 break가 되어 무한 루프이지만 10번 반복후 빠져 나오게 된다.
@@ -198,19 +191,13 @@ int main(int argc, const char * argv[]) {
 * 반복문 내에 일부 코드를 뛰어 넘고 다시 반복을 하게 할떄 **continue** 를 사용한다. 
 
 ```
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
- 
-    for(int i = 0; i < 10; i++) {
+for(int i = 0; i < 10; i++) {
         
-        if(i % 4 == 0) {
-            continue;
-        }
-        printf("%d ", i);
-    }
-    
-    return 0;
+	if(i % 4 == 0) {
+		continue;
+	}
+	
+	printf("%d ", i);
 }
 ```
 
