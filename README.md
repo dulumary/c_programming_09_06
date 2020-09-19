@@ -1,5 +1,8 @@
 # C 프로그래밍 기초  
 
+### [과제 확인](homework/README.md)
+
+
 ## 1. 프로그래밍이란    
 ### [강의 자료](01_Programming/README.md) 
 ### [예제 보기](01_Programming/ex)
@@ -42,3 +45,4 @@
 ### [강의 자료](08_String/README.md) 
 ### [예제 보기](08_String/ex)
 ### [연습 문제](08_String/test/README.md)  
+
