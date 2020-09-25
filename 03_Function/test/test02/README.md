@@ -24,7 +24,7 @@
 > hint ) 함수 원형 - void printQuotientRemainder (int number1, int number2)
 
 ```
-몫 : 2.5 나머지 : 2
+몫 : 2 나머지 : 2
 ```
 
 ### 4. 홀짝 함수
