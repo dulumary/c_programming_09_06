@@ -11,3 +11,5 @@
 ### [5. 종합문제](test05/README.md)    
 
 ### [6. 고급문제](test06/README.md)    
+
+### [7. 고급문제](test07/README.md)    
