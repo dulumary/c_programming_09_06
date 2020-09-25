@@ -1,5 +1,14 @@
 ## 문제) - 함수 사용하기
 
+* 아래 함수를 이용해서 문제를 풀어 보세요.
+
+|함수 원형|설명|예시|
+|:-:|:-:|:-:|
+|double pow ( double x, double y );|x^y를 구한다.|	pow(3.0, 2.0);|
+|double ceil ( double x );|x보다 작지 않은 가장 작은 정수를 구한다.|ceil(3.6);|
+|double floor ( double x );|x보다 크지 않은 가장 큰 정수를 구한다.|floor(7.5);|
+|double fabs ( double x );|x의 절댓값을 구한다.|abs(-6);|
+
 ### 1. 내림
 * 소수를 입력 받아서 내림으로 정수를 출력하세요.
 
