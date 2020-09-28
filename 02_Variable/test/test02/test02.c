@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
@@ -76,6 +75,7 @@ int main(int argc, const char * argv[]) {
     
     /*
         아래 공식을 이용해서 섭시 30도의 화씨 온도를 출력하세요.
+
         화씨 온도 = 9 / 5 * 섭씨온도 + 32
      */
     
@@ -83,3 +83,4 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+
