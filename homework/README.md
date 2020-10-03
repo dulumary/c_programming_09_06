@@ -1,9 +1,26 @@
 # 과제
 
+## Day 5 (2020-10-04)
+
+### github site 문제
+* [3 ~ 5](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test05/README.md)
+
+* [4](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md)
+
+* [1 ~ 3](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md) - (option)
+
+### codeup
+
+* if else if
+	* [1152](https://codeup.kr/problem.php?id=1152), [1155](https://codeup.kr/problem.php?id=1155), [1157](https://codeup.kr/problem.php?id=1157), [1158](https://codeup.kr/problem.php?id=1162), [1164](https://codeup.kr/problem.php?id=1164),  [1228](https://codeup.kr/problem.php?id=1228)
+
+
+
+
 ## Day 4 (2020-09-27)
 
 ### github site 문제
-* [1, 2](https://github.com/dulumary/basic/blob/master/c_programming/04_Condition/test/test05/README.md)
+* [1, 2](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test05/README.md)
 
 ### codeup
 

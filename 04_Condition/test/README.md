@@ -12,4 +12,4 @@
 
 ### [6. 고급문제](test06/README.md)    
 
-### [7. 고급문제](test07/README.md)    
+### [7. 고급문제2](test07/README.md)    
