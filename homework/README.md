@@ -3,8 +3,6 @@
 ## Day 5 (2020-10-04)
 
 ### github site 문제
-* [3 ~ 5](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test05/README.md)
-
 * [4](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md)
 
 * [1 ~ 3](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md) - (option)
