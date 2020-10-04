@@ -40,6 +40,15 @@ int main(int argc, const char * argv[]) {
         printf("%d 가 %d 이 같네요\n", number1, number2);
     }
    
+    char grade = 'C';
+    
+    if(grade < 'B') {
+        printf("<");
+    }
+    
+    if(grade > 'B') {
+        printf(">");
+    }
     return 0;
 }
 
