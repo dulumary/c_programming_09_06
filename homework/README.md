@@ -1,5 +1,15 @@
 # 과제
 
+## Day 6 (2020-10-11)
+
+### github site 문제
+*  [1-5](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test01/README.md)
+* [1-3](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test04/README.md)
+
+### codeup
+
+* [1251](https://codeup.kr/problem.php?id=1251), [1252](https://codeup.kr/problem.php?id=1252), [1253](https://codeup.kr/problem.php?id=1253), [1256](https://codeup.kr/problem.php?id=1256), [1257](https://codeup.kr/problem.php?id=1257), [1260](https://codeup.kr/problem.php?id=1260)
+
 ## Day 5 (2020-10-04)
 
 ### github site 문제
