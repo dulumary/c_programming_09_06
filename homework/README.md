@@ -1,4 +1,10 @@
 # 과제
+## Day 7 (2020-10-18)
+
+### github site 문제
+*  [1-6](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test02/README.md)
+* [3-5](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test04/README.md)
+* [1-3](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test05/README.md)
 
 ## Day 6 (2020-10-11)
 
