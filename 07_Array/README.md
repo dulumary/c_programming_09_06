@@ -128,9 +128,9 @@ printf("평균은 %f 입니다.", sum / 10.0);
 
 [예제 보기](ex/ex01.c)
 
-[연습문제1](test/test01/README.md)
+[연습문제1](test/test01/README.md)  
 [연습문제2](test/test02/README.md)  
-[고급문제2](test/test03/README.md)
+[고급문제](test/test03/README.md)
 
 ## 여러개의 배열
 *  5명의 학생의 성적의 평균을 각각 구하세요
@@ -245,5 +245,5 @@ for(int i = 0; i < 5; i++) {  // 배열의 개수 만큼 반복
 *  큰 반복문에서 i 작은 반복문에서 j를 사용하는 것이 통상적이다. 
 
 
-[연습문제1](test/test04/README.md)
+[연습문제1](test/test04/README.md)  
 [연습문제2](test/test05/README.md)  
