@@ -1,24 +1,30 @@
 # 과제
 
+## Day 9 (2020-11-01)
+
+### github site 문제
+*  [6-8](../07_Array/test/test01/README.md)
+* [1-5](../07_Array/test/test02/README.md)
+
 ## Day 8 (2020-10-25)
 
 ### github site 문제
-*  [4-6](https://github.com/dulumary/c_programming_09_06/blob/master/06_NestedLoop/test/test01/README.md)
-* [1-3](https://github.com/dulumary/c_programming_09_06/blob/master/06_NestedLoop/test/test02/README.md)
+*  [4-6](../06_NestedLoop/test/test01/README.md)
+* [1-3](../06_NestedLoop/test/test02/README.md)
 
  
 ## Day 7 (2020-10-18)
 
 ### github site 문제
-*  [1-6](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test02/README.md)
-* [3-5](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test04/README.md)
-* [1-3](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test05/README.md)
+*  [1-6](../05_Loop/test/test02/README.md)
+* [3-5](../05_Loop/test/test04/README.md)
+* [1-3](../05_Loop/test/test05/README.md)
 
 ## Day 6 (2020-10-11)
 
 ### github site 문제
-*  [1-5](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test01/README.md)
-* [1-3](https://github.com/dulumary/c_programming_09_06/blob/master/05_Loop/test/test04/README.md)
+*  [1-5](../05_Loop/test/test01/README.md)
+* [1-3](../05_Loop/test/test04/README.md)
 
 ### codeup
 
@@ -27,9 +33,9 @@
 ## Day 5 (2020-10-04)
 
 ### github site 문제
-* [4](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md)
+* [4](../04_Condition/test/test06/README.md)
 
-* [1 ~ 3](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test06/README.md) - (option)
+* [1 ~ 3](../04_Condition/test/test06/README.md) - (option)
 
 ### codeup
 
@@ -42,7 +48,7 @@
 ## Day 4 (2020-09-27)
 
 ### github site 문제
-* [1, 2](https://github.com/dulumary/c_programming_09_06/blob/master/04_Condition/test/test05/README.md)
+* [1, 2](../04_Condition/test/test05/README.md)
 
 ### codeup
 
@@ -53,8 +59,8 @@
 ## Day 3 (2020-09-20)
 
 ### github site 문제
-* [1 ~ 6](https://github.com/dulumary/c_programming_09_06/blob/master/02_Variable/test/test04/README.md)
-* [2, 4, 5, 6](https://github.com/dulumary/c_programming_09_06/blob/master/02_Variable/test/test05/README.md) - option
+* [1 ~ 6](../02_Variable/test/test04/README.md)
+* [2, 4, 5, 6](../02_Variable/test/test05/README.md) - option
 
 ### codeup
 * [1010 ~ 1020](https://codeup.kr/problemsetsol.php?psid=10)
@@ -63,8 +69,8 @@
 ## Day 2 (2020-09-13)
 
 ### github site 문제
-* [1 ~ 6](https://github.com/dulumary/c_programming_09_06/blob/master/02_Variable/test/test02/README.md)
-* [1](https://github.com/dulumary/c_programming_09_06/blob/master/02_Variable/test/test05/README.md)
+* [1 ~ 6](../02_Variable/test/test02/README.md)
+* [1](../02_Variable/test/test05/README.md)
 
 ### codeup
 * [1004 ~ 1007](https://codeup.kr/problemsetsol.php?psid=9)
