@@ -1,9 +1,14 @@
 # 과제
+## Day 10 (2020-11-08)
+
+### github site 문제
+*  [4-6](../07_Array/test/test04/README.md)
+* [1-5](../07_Array/test/test05/README.md)
 
 ## Day 9 (2020-11-01)
 
 ### github site 문제
-*  [6-8](../07_Array/test/test01/README.md)
+*  [5-8](../07_Array/test/test01/README.md)
 * [1-5](../07_Array/test/test02/README.md)
 
 ## Day 8 (2020-10-25)
