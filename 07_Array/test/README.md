@@ -6,6 +6,6 @@
 
 ### [3. 배열 고급 문제](test03/README.md) 
    
-### [4. 2차원 배열 입력](test03/README.md) 
+### [4. 2차원 배열 입력](test04/README.md) 
 
 ### [5. 2차원 배열 다루기](test03/README.md) 
