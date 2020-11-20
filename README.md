@@ -1,5 +1,7 @@
 # C 프로그래밍 기초  
 
+### [최종 복습 문제](fulltest/README.md)
+
 ### [과제 확인](homework/README.md)
 
 
