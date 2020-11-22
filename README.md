@@ -41,8 +41,7 @@
 ### [예제 보기](07_Array/ex)
 ### [연습 문제](07_Array/test/README.md)  
 
-##  8. 문자열
-### [강의 자료](08_String/README.md) 
-### [예제 보기](08_String/ex)
-### [연습 문제](08_String/test/README.md)  
+##  8. 정렬
+### [강의 자료](08_Sorting/README.md) 
+
 
